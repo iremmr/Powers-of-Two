@@ -1,4 +1,4 @@
-# Powers-of-Two
+# SayininKuvvetleri
 ```
 import java.util.Scanner;
 

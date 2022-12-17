@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PowersOfTwo {
+public class SayininKuvvetleri {
     public static void main(String[] args) {
         int x;
 
